@@ -1,5 +1,7 @@
 # Report Example
 
+[Home](index.md)
+
 - I completed my assignments on dd/mmm/yyyy.
 - I was assigned to complete the project by dd/mmm/yyyy.
 - I have been assigned to work on the xxx project.
