@@ -21,5 +21,5 @@
 - The application failed the stress test.
 - My apologies for not responding to your email sooner.
 - The instructor mentioned that the examination would last for 2 hours.  
-- The instructor mentioned that ITIL 4 is …
+- The instructor mentioned that XXX is …
 
