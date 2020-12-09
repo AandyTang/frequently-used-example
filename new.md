@@ -15,6 +15,10 @@
 - Due to the `Reason`, ...
 - Apart from the `Something`, `Other thing`
 - As such, `conclusion`
+- Adhering to `Something`, `XXX`
+- Furthermore, `Other thing`
+- At this stage, `XXX`
+- In general, `XXX`
 
 ## Other
 
@@ -22,4 +26,6 @@
 - The `XXX` nature of `Something`
 - `XXX` namely, `A` and `B`
 - `XXX` are utilized to `YYY`
+- `XXX` are composed of `YYY`
+- `XXX` are presented in form of `YYY`
 - 
