@@ -10,8 +10,8 @@
 - Other than `Something`, `Other thing`
 - Similar to `Something`, `Other thing`
 - One more thing is that `Other thing`
-- Based on the previous lessons learnt, we need to 'Action'
-- So as to 'Something', 'Action'
+- Based on the previous lessons learnt, we need to `Action`
+- So as to `Something`, `Action`
 - Due to the `Reason`, ...
 - Apart from the `Something`, `Other thing`
 - As such, `conclusion`
