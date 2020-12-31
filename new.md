@@ -28,4 +28,17 @@
 - `XXX` are utilized to `YYY`
 - `XXX` are composed of `YYY`
 - `XXX` are presented in form of `YYY`
+- There is a grave risk
+
+## 30/12/2020
+- `something`, and vice versa
+- Thus, `something`
+- Despite this, `xxx`
+- In particular, `xxx`
+- For the present, `xxx`
+- It certainly `xxx`
+- Hance, `xxx`
+- `xxx` can be depicted in the following table:
+- In other words, `xxx`
+- Given this information, `xxx`
 - 
