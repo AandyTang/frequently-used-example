@@ -29,6 +29,8 @@
 - `XXX` are composed of `YYY`
 - `XXX` are presented in form of `YYY`
 - There is a grave risk
+- May I have your green light to proceed?
+- whereas
 
 ## 30/12/2020
 - `something`, and vice versa
