@@ -43,4 +43,9 @@
 - `xxx` can be depicted in the following table:
 - In other words, `xxx`
 - Given this information, `xxx`
-- 
+
+## 06/01/2021
+- `xxx` continue to mount
+- `xxx` warned of the devastating consequences if `yyy`
+- `xxx` has struggled to `yyy`
+- `xxx` as demanded by `yyy`
