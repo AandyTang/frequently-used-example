@@ -49,3 +49,4 @@
 - `xxx` warned of the devastating consequences if `yyy`
 - `xxx` has struggled to `yyy`
 - `xxx` as demanded by `yyy`
+- `xxx`; in fact, `more detail`
