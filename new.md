@@ -50,3 +50,9 @@
 - `xxx` has struggled to `yyy`
 - `xxx` as demanded by `yyy`
 - `xxx`; in fact, `more detail`
+
+## 13/01/2021
+- furter access could lead to further `incitements` of violence
+- the authorities are `accusing` them of trying to overthrow the government
+- donald trump has released a video on social media `condemning` the chaotic scenes
+- he also `conceded` that a new administration would now take office
