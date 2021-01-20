@@ -60,6 +60,6 @@
 ## 20/01/2021
 - in response to a `rise` in coronavirus cases
 - donald trumps has approved a state of emergency for washington to `tighten security`
-- elsewhere accross the u.s
-- a week before his term ends
-- he urge americans to be united
+- `elsewhere` accross the u.s
+- a week before his `term ends`
+- he `urge` americans to be united
