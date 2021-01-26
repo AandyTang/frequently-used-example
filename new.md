@@ -63,3 +63,8 @@
 - `elsewhere` accross the u.s
 - a week before his `term ends`
 - he `urge` americans to be united
+
+## 27/01/2021
+- Introducing new technologies without robust cybersecurity measures in place `presents` a risk
+to the Company
+- 
