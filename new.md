@@ -67,4 +67,11 @@
 ## 27/01/2021
 - Introducing new technologies without robust cybersecurity measures in place `presents` a risk
 to the Company
-- 
+- One `prominent` characteristics of this Framework is
+
+
+## 03/02/2021
+- to `exercise due care` when they read emails from external sources.
+- Phishing attacks have been a `plight` on individuals and organizations
+- Everyone enjoyed the trip to the final `although` we lost the match!
+- `Though` it was rainy, we put on our jackets and went for a walk.
