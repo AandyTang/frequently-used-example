@@ -75,3 +75,4 @@ to the Company
 - Phishing attacks have been a `plight` on individuals and organizations
 - Everyone enjoyed the trip to the final `although` we lost the match!
 - `Though` it was rainy, we put on our jackets and went for a walk.
+- `In the absence of` this framework to monitor space-actor behavior, ...
