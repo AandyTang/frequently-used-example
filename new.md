@@ -75,4 +75,8 @@ to the Company
 - Phishing attacks have been a `plight` on individuals and organizations
 - Everyone enjoyed the trip to the final `although` we lost the match!
 - `Though` it was rainy, we put on our jackets and went for a walk.
+
+## 10/02/2021
 - `In the absence of` this framework to monitor space-actor behavior, ...
+- As Internet services have become `essential` in supporting the Company's normal business operations.
+- to `keep abreast of` the fast-evolving cybersecurity threat landscape.
