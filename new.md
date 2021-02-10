@@ -81,4 +81,4 @@ to the Company
 - As Internet services have become `essential` in supporting the Company's normal business operations.
 - to `keep abreast of` the fast-evolving cybersecurity threat landscape.
 - Hardware, Software and services `as stipulated in` part 1
-- 
+- ABC shall provide the `adequate` level of manower resources
