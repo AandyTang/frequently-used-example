@@ -82,3 +82,4 @@ to the Company
 - to `keep abreast of` the fast-evolving cybersecurity threat landscape.
 - Hardware, Software and services `as stipulated in` part 1
 - ABC shall provide the `adequate` level of manower resources
+- ABC shall carry out `thorough` testing
