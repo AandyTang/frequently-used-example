@@ -83,3 +83,5 @@ to the Company
 - Hardware, Software and services `as stipulated in` part 1
 - ABC shall provide the `adequate` level of manower resources
 - ABC shall carry out `thorough` testing
+
+- Because of its aforementioned exceptions, learning the rules of English spellings may be easier said than done
